@@ -8,15 +8,14 @@ Hold down AltGr to make the most of your keyboard.
 * Entire Greek alphabet
 	* Both upper and lower case
 * Many diacritics supported
-	* Acute, Grave, Breve, Inverted Breve, Caron, Cedilla, Circumflex, Diaeresis, Dot (Upper and Lower), Perispomene, Ring
+	* Acute, Grave, Caron, Cedilla, Circumflex, Diaeresis, Dot (Upper and Lower), Perispomene, Ring
 	* Combining diacritics is unfortunately unavailable due combinatorics and to limitations of Microsoft Keyboard Layout Creator 1.4.
 * Various maths related symbols
 	* Comparisons
 	* Sets
 	* Statements
 	* Miscellaneous
-* Interobang
-* Alphanumeric Circles
+* Interobang‽
 	
 ## Layout
 
@@ -43,3 +42,7 @@ You need Windows 7 or earlier, 100% display scaling and Microsoft Keyboard Layou
 ## Bug fixes
 
 * All diacritics moved to AltGr, meaning you can now use ` in source games to open the console.
+
+## Bugs
+
+* Problem with Breve/Inverted Breve and Alphanumeric Circles, both removed until I can fix the problem.

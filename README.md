@@ -7,19 +7,43 @@ Hold down AltGr to make the most of your keyboard.
 
 * Entire Greek alphabet
 	* Both upper and lower case
-* Many diacritics supported
-	* Acute, Grave, Caron, Cedilla, Circumflex, Diaeresis, Dot (Upper and Lower), Perispomene, Ring
-	* Combining diacritics is unfortunately unavailable due combinatorics and to limitations of Microsoft Keyboard Layout Creator 1.4.
+	* (Nearly) identical layout to the traditional Greek layout
+	* No pesky Greek question mark
+* Most diacritics supported with a combinable accent key:
+	* acute, double Acute
+	* breve, inverted Breve
+	* caron, Circumflex
+	* dot above, Dot below
+	* grave, double Grave
+	* hook, Hook above
+	* iota subscript, Iota subscript
+	* line, Line
+	* macron above, Macron below
+	* ogonek, Ogonek
+	* perispomene, Perispomene
+	* ring above, Ring below
+	* s rough breathing, S light breathing
+	* tie above, Tie below
+	* umlaut, Umlaut
+	* visgoth cedilla, Vietnamese horn
+	* w square, W diamond
+	* y circle, Y cross
+	* z infinity, Z infinity
 * Various maths related symbols
 	* Comparisons
-	* Sets
 	* Statements
+	* Arrows and Quotations
+	* Tacks
+	* Set Theory
+	* Letter-like Symbols
 	* Miscellaneous
 * Interobang‽
+* Daggers and Sections
+* Variable spaces
 	
 ## Layout
 
-This keyboard layout only changes AltGr significantly, additional screenshots can be found in the screenshots folder.
+This keyboard layout changes AltGr significantly; the Shift space is also non-breaking. Additional screenshots can be found in the screenshots folder.
 
 #### Standard
 
@@ -37,12 +61,4 @@ This keyboard layout only changes AltGr significantly, additional screenshots ca
 
 ## Building
 
-You need Windows 7 or earlier, 100% display scaling and Microsoft Keyboard Layout Creator 1.4 installed in order to build this. You cannot use Windows 8 or later, any display scaling will break the program. You can use a Windows 7 virtual machine to compile.
-
-## Bug fixes
-
-* All diacritics moved to AltGr, meaning you can now use ` in source games to open the console.
-
-## Bugs
-
-* Problem with Breve/Inverted Breve and Alphanumeric Circles, both removed until I can fix the problem.
+You need lcuk and Microsoft Keyboard Layout Creator 1.4 installed in order to build this. It's not a very reliable bit of software.

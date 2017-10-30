@@ -61,4 +61,4 @@ This keyboard layout changes AltGr significantly; the Shift space is also non-br
 
 ## Building
 
-You need lcuk and Microsoft Keyboard Layout Creator 1.4 installed in order to build this. It's not a very reliable bit of software.
+You need luck and Microsoft Keyboard Layout Creator 1.4 installed in order to build this. It's not a very reliable bit of software.

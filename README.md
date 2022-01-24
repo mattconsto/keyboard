@@ -20,10 +20,9 @@ Hold down AltGr to make the most of your keyboard.
 	* line, Line
 	* macron above, Macron below
 	* ogonek, Ogonek
-	* perispomene, Perispomene
 	* ring above, Ring below
 	* s rough breathing, S light breathing
-	* tie above, Tie below
+	* tilde, Tilde
 	* umlaut, Umlaut
 	* visgoth cedilla, Vietnamese horn
 	* w square, W diamond
